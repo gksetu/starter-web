@@ -19,3 +19,5 @@ Purpose section
 Deployment section
 
 ## How to contribute
+
+Contribution section
