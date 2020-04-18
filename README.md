@@ -12,6 +12,8 @@ Introduction section
 
 ## Purpose
 
+Purpose section
+
 ## Deployment
 
 ## How to contribute
