@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Introduction
 
 Introduction section
+A sample application for git practice
 
 ## Purpose
 
