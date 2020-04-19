@@ -25,4 +25,4 @@ Contribution section
 
 ### Copyright
 
-2020 Git.training
+2020 Git training
