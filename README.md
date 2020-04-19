@@ -22,3 +22,7 @@ Deployment section
 ## How to contribute
 
 Contribution section
+
+### Copyright
+
+2020 Git.training
