@@ -21,7 +21,7 @@ Deployment section
 
 ## How to contribute
 
-Contribution section
+Please fork this repository and then issue pull request for review.
 
 ### Copyright
 
